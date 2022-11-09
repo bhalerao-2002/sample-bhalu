@@ -28,5 +28,5 @@ Primary Azure Technology : Web apps, Static Web apps
 Other Azure Technologies :
 Azure Service
 
-project demo link:
+project demo link: https://covid-19.azurewebsites.net
 
